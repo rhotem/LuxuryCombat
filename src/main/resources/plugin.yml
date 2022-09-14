@@ -1,0 +1,5 @@
+name: LuxuryCombat
+version: '${project.version}'
+main: me.justacat.luxurycombat.LuxuryCombat
+api-version: 1.17
+depend: [WorldGuard]

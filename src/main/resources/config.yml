@@ -1,0 +1,5 @@
+prefix: "&c[LuxuryCombat] "
+message: "&cYou can't do this while in combat!"
+#combat time in seconds
+combatTime: 15
+
